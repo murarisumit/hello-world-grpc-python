@@ -1,6 +1,6 @@
 ### Basic 001 grpc python 
 
-Don't know for some reason, i found grpc not directly coming to my head like rest used to feel. People say it's good, they say protocol buffers are better optimised, they feel so. So whole process is not so intitutive.
+Don't know for some reason, i found grpc not directly coming to my head like rest used to feel. People say it's good, they say protocol buffers are better optimised, they feel so. So for me whole process is not so intitutive.
 
 Slowly decoupling things.
 
